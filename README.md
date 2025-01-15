@@ -1,5 +1,5 @@
 # docker-nginx
-An unofficial container for Nginx web server
+An unofficial container image for Nginx web server
 
 ### Usage  
 - Create a new container by DockerHub: ``docker run -d -p 80:80 -p 443:443 xosadmin/docker-nginx``
